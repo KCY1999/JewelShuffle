@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/01/22 09:56:12.000.712,=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/01/22 09:56:12.000.467,=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/01/22 09:59:48.000.675,C:\Users\andyg\Desktop\C++\寶石三消\Unit1.dfm=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/01/22 09:59:48.000.675,C:\Users\andyg\Desktop\C++\寶石三消\Unit1.h=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020/01/22 09:59:48.000.675,C:\Users\andyg\Desktop\C++\寶石三消\Unit1.cpp=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/01/22 09:59:53.000.479,C:\Users\andyg\Desktop\C++\寶石三消\Project1PCH1.h=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/01/22 09:59:59.000.727,C:\Users\andyg\Desktop\C++\寶石三消\Project1.cbproj=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2020/02/24 16:40:17.000.089,=C:\Users\andyg\Desktop\C++\寶石三消\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
